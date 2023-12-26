@@ -1,5 +1,5 @@
 # ur3e
 
 Sources:
-1. [UR3e Downloads](https://www.universal-robots.com/download)
-2. [ROBOTIQ 2F-140 Gripper](https://robotiq.com/products/2f85-140-adaptive-robot-gripper)
+1. [Universal Robotics Support for UR3e](https://www.universal-robots.com/support)
+2. [ROBOTIQ Support for 2F-140 Gripper](https://robotiq.com/support)
